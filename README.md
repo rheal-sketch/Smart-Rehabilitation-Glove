@@ -16,3 +16,13 @@ The prototype integrates the sensors directly into a wearable glove, demonstrati
 * Processes sensor data using an ESP32
 * Integrates the electronics into a functional wearable glove
 * Designed as a prototype for rehabilitation and hand-movement monitoring
+
+# Components
+
+* ESP32
+* MPU6050
+* Flex sensors
+* Force-sensitive resistors (FSRs)
+* Breadboard/prototyping components
+* Jumper wires
+* Wearable glove
