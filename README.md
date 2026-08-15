@@ -6,7 +6,7 @@ The prototype integrates the sensors directly into a wearable glove, demonstrati
 
 # Demo
 
-🎥 Watch the Smart Rehabilitation Glove Demo: 
+🎥 Watch the Smart Rehabilitation Glove Demo: (https://github.com/rheal-sketch/Smart-Rehabilitation-Glove/blob/main/smart-glove-demo.mp4.mov)
 
 # Key Features
 
